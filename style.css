@@ -1,0 +1,35 @@
+body{
+ font-family: 'Tapestry', cursive;
+    background: deepskyblue;
+}
+.header_div{
+ 
+    color: crimson;
+    background: whitesmoke;
+}
+.header_div h1{
+    text-shadow: 5px 5px 5px grey;
+}
+.header_div p{
+    font-family: 'Water Brush', cursive;
+    color: darkviolet;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    background: white;
+    font-size: medium;
+    line-height: 3;
+    text-shadow: 5px 5px 5px grey;
+    text-align: center;
+}
